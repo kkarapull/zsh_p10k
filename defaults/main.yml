@@ -6,7 +6,7 @@ set_font: true
 zsh_hist_stamps: yyyy-mm-dd
 zsh_case_sensitive: false
 zsh_hyphen_intensitive: false # zsh_case_sensitive should be false
-zsh_autoupdate: auto # disabled | reminder
+zsh_autoupdate: reminder  # disabled | auto 
 zsh_autocorrection: true
 zsh_share_history: no
 zsh_update_interval: 30 # set 0 for disable autoupdates
